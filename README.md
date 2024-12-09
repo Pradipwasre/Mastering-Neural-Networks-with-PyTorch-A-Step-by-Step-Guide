@@ -7,6 +7,7 @@
 
 ## Neural Networks
 
+
 Neural networks have been at the forefront of Artificial Intelligence research during the last few years, and have provided solutions to many difficult problems like image classification, language translation or Alpha Go. 
 - PyTorch is one of the leading deep learning frameworks, being at the same time both powerful and easy to use.
 - Neural networks are a set of algorithms, modeled loosely after the human brain, that are designed to recognize patterns. 
