@@ -25,7 +25,6 @@ A typical training procedure for a neural network is as follows:
 - Propagate gradients back into the network’s parameters
 - Update the weights of the network, typically using a simple update rule.
 
-
 ## Code Description
 
 
