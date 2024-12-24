@@ -14,7 +14,6 @@ Neural networks have been at the forefront of Artificial Intelligence research d
 - The networks are built from individual parts approximating neurons, typically called units or simply “neurons.” Each unit has some number of weighted inputs. 
 - These weighted inputs are summed together (a linear combination) then passed through an activation function to get the unit’s output.
 
-
 ## Training Process Neural Nets
 
 A typical training procedure for a neural network is as follows:
